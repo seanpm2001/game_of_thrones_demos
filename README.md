@@ -1,4 +1,4 @@
-# Game of Thrones UpSet dataset
+# Game of Thrones UpSet.js dataset
 
 
 data from:
