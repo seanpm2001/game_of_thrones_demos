@@ -1,20 +1,12 @@
 [
   {
-    "name": "Addam Marbrand",
-    "episodes": 1,
-    "words": 22,
-    "sets": [
-      "male"
-    ]
-  },
-  {
     "name": "Aegon Targaryen",
     "episodes": 0,
     "words": 0,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasSiblings"
+      "royal",
+      "was killed",
+      "Targaryen"
     ]
   },
   {
@@ -22,7 +14,7 @@
     "episodes": 2,
     "words": 206,
     "sets": [
-      "hasSiblings",
+      "Greyjoy",
       "male"
     ]
   },
@@ -31,30 +23,10 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged"
-    ]
-  },
-  {
-    "name": "Akho",
-    "episodes": 2,
-    "words": 69,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Alliser Thorne",
-    "episodes": 19,
-    "words": 1881,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
+      "royal",
+      "was killed",
+      "has killed",
+      "Targaryen"
     ]
   },
   {
@@ -62,74 +34,8 @@
     "episodes": 3,
     "words": 339,
     "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Alys Karstark",
-    "episodes": 1,
-    "words": 3,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Amory Lorch",
-    "episodes": 3,
-    "words": 134,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Anguy",
-    "episodes": 6,
-    "words": 301,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Archmaester Marwyn",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Areo Hotah",
-    "episodes": 4,
-    "words": 47,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Armeca",
-    "episodes": 1,
-    "words": 19,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Arthur",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Arthur Dayne",
-    "episodes": 1,
-    "words": 39,
-    "sets": [
-      "parfOfKingsguard",
-      "wasKilled",
+      "was killed",
+      "Lannister",
       "male"
     ]
   },
@@ -138,17 +44,9 @@
     "episodes": 58,
     "words": 6465,
     "sets": [
-      "hasKilled",
-      "hasSiblings",
+      "has killed",
+      "Stark",
       "female"
-    ]
-  },
-  {
-    "name": "Baby Sam",
-    "episodes": 1,
-    "words": 1,
-    "sets": [
-      "male"
     ]
   },
   {
@@ -156,8 +54,8 @@
     "episodes": 4,
     "words": 809,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
+      "was killed",
+      "Greyjoy",
       "male"
     ]
   },
@@ -165,15 +63,8 @@
     "name": "Baratheon Guard",
     "episodes": 0,
     "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Barristan Selmy",
-    "episodes": 21,
-    "words": 1321,
     "sets": [
-      "wasKilled",
-      "male"
+      "Baratheon"
     ]
   },
   {
@@ -181,42 +72,8 @@
     "episodes": 6,
     "words": 633,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Beric Dondarrion",
-    "episodes": 13,
-    "words": 1203,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Bianca",
-    "episodes": 2,
-    "words": 30,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Biter",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Black Lorren",
-    "episodes": 4,
-    "words": 128,
-    "sets": [
+      "was killed",
+      "Stark",
       "male"
     ]
   },
@@ -225,26 +82,9 @@
     "episodes": 4,
     "words": 173,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Bobono",
-    "episodes": 3,
-    "words": 240,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Bowen Marsh",
-    "episodes": 3,
-    "words": 37,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
+      "was killed",
+      "has killed",
+      "Frey",
       "male"
     ]
   },
@@ -253,8 +93,8 @@
     "episodes": 38,
     "words": 3260,
     "sets": [
-      "isRoyal",
-      "hasSiblings",
+      "royal",
+      "Stark",
       "male"
     ]
   },
@@ -263,45 +103,8 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasSiblings"
-    ]
-  },
-  {
-    "name": "Brea",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Brienne of Tarth",
-    "episodes": 35,
-    "words": 4049,
-    "sets": [
-      "parfOfKingsguard",
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Bronn",
-    "episodes": 34,
-    "words": 4709,
-    "sets": [
-      "hasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Brother Ray",
-    "episodes": 1,
-    "words": 678,
-    "sets": [
-      "wasKilled",
-      "male"
+      "was killed",
+      "Stark"
     ]
   },
   {
@@ -309,15 +112,7 @@
     "episodes": 6,
     "words": 762,
     "sets": [
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Captain of the Archers",
-    "episodes": 1,
-    "words": 32,
-    "sets": [
+      "Tully",
       "male"
     ]
   },
@@ -326,20 +121,11 @@
     "episodes": 25,
     "words": 3496,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "was killed",
+      "has killed",
+      "Stark",
+      "Tully",
       "female"
-    ]
-  },
-  {
-    "name": "Catspaw Assassin",
-    "episodes": 1,
-    "words": 19,
-    "sets": [
-      "wasKilled",
-      "male"
     ]
   },
   {
@@ -347,52 +133,12 @@
     "episodes": 60,
     "words": 15234,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "royal",
+      "was killed",
+      "has killed",
+      "Lannister",
+      "Baratheon",
       "female"
-    ]
-  },
-  {
-    "name": "Child of the Forest",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Citadel Maester",
-    "episodes": 1,
-    "words": 47,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Colen of Greenpools",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Craster",
-    "episodes": 4,
-    "words": 619,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Daario Naharis",
-    "episodes": 17,
-    "words": 2257,
-    "sets": [
-      "hasKilled",
-      "male"
     ]
   },
   {
@@ -400,72 +146,11 @@
     "episodes": 61,
     "words": 12560,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "royal",
+      "was killed",
+      "has killed",
+      "Targaryen",
       "female"
-    ]
-  },
-  {
-    "name": "Dagmer Cleftjaw",
-    "episodes": 5,
-    "words": 167,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Daisy",
-    "episodes": 2,
-    "words": 14,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Davos Seaworth",
-    "episodes": 41,
-    "words": 6726,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Dickon Tarly",
-    "episodes": 4,
-    "words": 115,
-    "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Dongo the Giant",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Donnel Waynwood",
-    "episodes": 2,
-    "words": 29,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Dontos Hollard",
-    "episodes": 4,
-    "words": 238,
-    "sets": [
-      "wasKilled",
-      "male"
     ]
   },
   {
@@ -473,45 +158,8 @@
     "episodes": 5,
     "words": 526,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Doreah",
-    "episodes": 6,
-    "words": 529,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Dothraki Bloodrider #1",
-    "episodes": 2,
-    "words": 17,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Dothraki Bloodrider #2",
-    "episodes": 1,
-    "words": 12,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Drennan",
-    "episodes": 1,
-    "words": 6,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "Martell",
       "male"
     ]
   },
@@ -520,16 +168,8 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Drowned Priest",
-    "episodes": 1,
-    "words": 55,
-    "sets": [
+      "has killed",
+      "Targaryen",
       "male"
     ]
   },
@@ -538,19 +178,9 @@
     "episodes": 11,
     "words": 3511,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Eddison Tollett",
-    "episodes": 24,
-    "words": 922,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "has killed",
+      "Stark",
       "male"
     ]
   },
@@ -559,8 +189,7 @@
     "episodes": 7,
     "words": 684,
     "sets": [
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "Tully",
       "male"
     ]
   },
@@ -569,10 +198,9 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged"
+      "royal",
+      "was killed",
+      "Martell"
     ]
   },
   {
@@ -580,59 +208,19 @@
     "episodes": 12,
     "words": 805,
     "sets": [
-      "hasKilled",
-      "isMarriedOrEngaged",
+      "has killed",
+      "Martell",
       "female"
     ]
-  },
-  {
-    "name": "Eon Hunter",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
   },
   {
     "name": "Euron Greyjoy",
     "episodes": 9,
     "words": 1328,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Faceless Man",
-    "episodes": 1,
-    "words": 15,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Farlen",
-    "episodes": 1,
-    "words": 26,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Gared",
-    "episodes": 1,
-    "words": 28,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Gatins",
-    "episodes": 1,
-    "words": 75,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "has killed",
+      "Greyjoy",
       "male"
     ]
   },
@@ -641,16 +229,8 @@
     "episodes": 21,
     "words": 1894,
     "sets": [
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Gerold Hightower",
-    "episodes": 1,
-    "words": 13,
-    "sets": [
-      "wasKilled",
+      "has killed",
+      "Baratheon",
       "male"
     ]
   },
@@ -659,141 +239,10 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Gilly",
-    "episodes": 23,
-    "words": 1536,
-    "sets": [
-      "isMarriedOrEngaged",
-      "female"
-    ]
-  },
-  {
-    "name": "Goldcloak",
-    "episodes": 3,
-    "words": 78,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Goldcloak #1",
-    "episodes": 1,
-    "words": 3,
-    "sets": []
-  },
-  {
-    "name": "Goldcloak #2",
-    "episodes": 1,
-    "words": 2,
-    "sets": []
-  },
-  {
-    "name": "Grand Maester Pycelle",
-    "episodes": 26,
-    "words": 1995,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #1",
-    "episodes": 2,
-    "words": 5,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #2",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #3",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #4",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #5",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #6",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Great Master #7",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Greatjon Umber",
-    "episodes": 3,
-    "words": 391,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Gregor Clegane",
-    "episodes": 5,
-    "words": 69,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Greizhen mo Ullhor",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Grenn",
-    "episodes": 17,
-    "words": 808,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
+      "has killed",
+      "Stark",
+      "male",
+      "direwolf"
     ]
   },
   {
@@ -801,96 +250,11 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Grey Worm",
-    "episodes": 24,
-    "words": 1227,
-    "sets": [
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Hallyne",
-    "episodes": 1,
-    "words": 139,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Handmaid",
-    "episodes": 5,
-    "words": 67,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Harald Karstark",
-    "episodes": 3,
-    "words": 73,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Harry Strickland",
-    "episodes": 1,
-    "words": 38,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "High Priestess",
-    "episodes": 2,
-    "words": 120,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "High Septon",
-    "episodes": 7,
-    "words": 405,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "High Sparrow",
-    "episodes": 12,
-    "words": 2774,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Hizdahr zo Loraq",
-    "episodes": 7,
-    "words": 841,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Hodor",
-    "episodes": 16,
-    "words": 81,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
+      "was killed",
+      "has killed",
+      "Stark",
+      "male",
+      "direwolf"
     ]
   },
   {
@@ -898,83 +262,7 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Hot Pie",
-    "episodes": 10,
-    "words": 952,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Howland Reed",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Hugh of the Vale",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Illyrio Mopatis",
-    "episodes": 2,
-    "words": 235,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Ilyn Payne",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Irri",
-    "episodes": 7,
-    "words": 228,
-    "sets": [
-      "wasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Izembaro",
-    "episodes": 3,
-    "words": 262,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Jacks",
-    "episodes": 1,
-    "words": 16,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Jafer Flowers",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
+      "Tully",
       "male"
     ]
   },
@@ -983,45 +271,9 @@
     "episodes": 53,
     "words": 11728,
     "sets": [
-      "parfOfKingsguard",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Janos Slynt",
-    "episodes": 12,
-    "words": 763,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Jaqen H'ghar",
-    "episodes": 17,
-    "words": 1424,
-    "sets": [
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Jaqen's Disguise",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Jaremy Rykker",
-    "episodes": 1,
-    "words": 3,
-    "sets": [
+      "was killed",
+      "has killed",
+      "Lannister",
       "male"
     ]
   },
@@ -1030,16 +282,9 @@
     "episodes": 12,
     "words": 1601,
     "sets": [
-      "wasKilled",
+      "was killed",
+      "Mormont",
       "male"
-    ]
-  },
-  {
-    "name": "Jhiqui",
-    "episodes": 1,
-    "words": 6,
-    "sets": [
-      "female"
     ]
   },
   {
@@ -1047,30 +292,10 @@
     "episodes": 21,
     "words": 3303,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Jojen Reed",
-    "episodes": 10,
-    "words": 655,
-    "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Jon Arryn",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
+      "royal",
+      "was killed",
+      "has killed",
+      "Baratheon",
       "male"
     ]
   },
@@ -1079,18 +304,11 @@
     "episodes": 60,
     "words": 12592,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Jonos Bracken",
-    "episodes": 1,
-    "words": 42,
-    "sets": [
+      "royal",
+      "was killed",
+      "has killed",
+      "Stark",
+      "Targaryen",
       "male"
     ]
   },
@@ -1099,63 +317,9 @@
     "episodes": 49,
     "words": 4806,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Jory Cassel",
-    "episodes": 4,
-    "words": 241,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Joyeuse Erenford",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "isMarriedOrEngaged",
-      "female"
-    ]
-  },
-  {
-    "name": "Karl Tanner",
-    "episodes": 3,
-    "words": 602,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Karsi",
-    "episodes": 1,
-    "words": 158,
-    "sets": [
-      "wasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Kayla",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Kegs",
-    "episodes": 1,
-    "words": 4,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "has killed",
+      "Mormont",
       "male"
     ]
   },
@@ -1164,105 +328,9 @@
     "episodes": 9,
     "words": 492,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
+      "was killed",
+      "Lannister",
       "male"
-    ]
-  },
-  {
-    "name": "Khal Drogo",
-    "episodes": 7,
-    "words": 421,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Khal Moro",
-    "episodes": 3,
-    "words": 304,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Khal Rhalko",
-    "episodes": 1,
-    "words": 8,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "King Joffrey Baratheon Dwarf",
-    "episodes": 1,
-    "words": 18,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "King Renly Baratheon Dwarf",
-    "episodes": 1,
-    "words": 14,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "King Robb Stark Dwarf",
-    "episodes": 1,
-    "words": 26,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "King Stannis Baratheon Dwarf",
-    "episodes": 1,
-    "words": 8,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "King's Landing Rioter #1",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "King's Landing Rioter #2",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "King's Landing Rioter #3",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Kinvara",
-    "episodes": 1,
-    "words": 292,
-    "sets": [
-      "female"
     ]
   },
   {
@@ -1270,45 +338,8 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "isMarriedOrEngaged",
+      "Frey",
       "female"
-    ]
-  },
-  {
-    "name": "Knight of House Frey",
-    "episodes": 1,
-    "words": 27,
-    "sets": []
-  },
-  {
-    "name": "Knight of House Lynderly",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Kovarro",
-    "episodes": 3,
-    "words": 47,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Kraznys mo Nakloz",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Kurleket",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled"
     ]
   },
   {
@@ -1316,18 +347,10 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "female"
-    ]
-  },
-  {
-    "name": "Lady Crane",
-    "episodes": 3,
-    "words": 623,
-    "sets": [
-      "wasKilled",
-      "female"
+      "was killed",
+      "Stark",
+      "female",
+      "direwolf"
     ]
   },
   {
@@ -1335,166 +358,8 @@
     "episodes": 13,
     "words": 752,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Lannister Captain",
-    "episodes": 2,
-    "words": 43,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Lannister Guardsman",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Lannister Messenger",
-    "episodes": 1,
-    "words": 17,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Lannister Scout",
-    "episodes": 1,
-    "words": 10,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Lead Dornish Guard",
-    "episodes": 1,
-    "words": 30,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Leaf",
-    "episodes": 3,
-    "words": 94,
-    "sets": [
-      "wasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Lem Lemoncloak",
-    "episodes": 2,
-    "words": 37,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Leo Lefford",
-    "episodes": 1,
-    "words": 21,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Lhara",
-    "episodes": 2,
-    "words": 30,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Little Bird",
-    "episodes": 2,
-    "words": 22,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Little Bird #3",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Little Bird #4",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Little Bird #5",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Little Bird #6",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Little Bird #7",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Loboda",
-    "episodes": 1,
-    "words": 110,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Locke",
-    "episodes": 8,
-    "words": 729,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Lollys Stokeworth",
-    "episodes": 1,
-    "words": 115,
-    "sets": [
-      "isMarriedOrEngaged",
-      "female"
-    ]
-  },
-  {
-    "name": "Lommy Greenhands",
-    "episodes": 3,
-    "words": 83,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "Lannister",
       "male"
     ]
   },
@@ -1503,39 +368,8 @@
     "episodes": 15,
     "words": 1093,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Lord Galbart Glover",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Lord Portan",
-    "episodes": 1,
-    "words": 15,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Lord Varys",
-    "episodes": 39,
-    "words": 7421,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Lordsport Dockhand",
-    "episodes": 1,
-    "words": 13,
-    "sets": [
+      "was killed",
+      "Tyrell",
       "male"
     ]
   },
@@ -1544,24 +378,9 @@
     "episodes": 4,
     "words": 163,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Loyal Night's Watchman #1",
-    "episodes": 1,
-    "words": 35,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Loyal Night's Watchman #2",
-    "episodes": 1,
-    "words": 18,
-    "sets": [
+      "was killed",
+      "has killed",
+      "Frey",
       "male"
     ]
   },
@@ -1570,8 +389,9 @@
     "episodes": 8,
     "words": 565,
     "sets": [
-      "wasKilled",
-      "hasKilled",
+      "was killed",
+      "has killed",
+      "Mormont",
       "female"
     ]
   },
@@ -1580,9 +400,8 @@
     "episodes": 1,
     "words": 63,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "was killed",
+      "Stark",
       "female"
     ]
   },
@@ -1591,10 +410,10 @@
     "episodes": 5,
     "words": 1320,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "was killed",
+      "has killed",
+      "Arryn",
+      "Tully",
       "female"
     ]
   },
@@ -1603,7 +422,8 @@
     "episodes": 10,
     "words": 483,
     "sets": [
-      "wasKilled",
+      "was killed",
+      "Tyrell",
       "male"
     ]
   },
@@ -1612,111 +432,9 @@
     "episodes": 11,
     "words": 1350,
     "sets": [
-      "wasKilled",
+      "was killed",
+      "Targaryen",
       "male"
-    ]
-  },
-  {
-    "name": "Maester Cressen",
-    "episodes": 1,
-    "words": 130,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Maester Luwin",
-    "episodes": 14,
-    "words": 1120,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Maester Wolkan",
-    "episodes": 9,
-    "words": 120,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Mag the Mighty",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Maggy",
-    "episodes": 1,
-    "words": 93,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Mago",
-    "episodes": 1,
-    "words": 37,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Male Prostitute",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Malko",
-    "episodes": 2,
-    "words": 221,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Mance Rayder",
-    "episodes": 5,
-    "words": 1200,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Mandon Moore",
-    "episodes": 1,
-    "words": 20,
-    "sets": [
-      "parfOfKingsguard",
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Manservant",
-    "episodes": 1,
-    "words": 11,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Marei",
-    "episodes": 4,
-    "words": 22,
-    "sets": [
-      "female"
     ]
   },
   {
@@ -1724,26 +442,9 @@
     "episodes": 25,
     "words": 3534,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "was killed",
+      "Tyrell",
       "female"
-    ]
-  },
-  {
-    "name": "Margaery's Handmaiden",
-    "episodes": 1,
-    "words": 15,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Marillion",
-    "episodes": 3,
-    "words": 208,
-    "sets": [
-      "male"
     ]
   },
   {
@@ -1751,203 +452,9 @@
     "episodes": 2,
     "words": 43,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
+      "was killed",
+      "Lannister",
       "male"
-    ]
-  },
-  {
-    "name": "Masha Heddle",
-    "episodes": 1,
-    "words": 17,
-    "sets": []
-  },
-  {
-    "name": "Matthos Seaworth",
-    "episodes": 3,
-    "words": 371,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Meera Reed",
-    "episodes": 15,
-    "words": 743,
-    "sets": [
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Meereen Slave Master",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Melessa Tarly",
-    "episodes": 1,
-    "words": 125,
-    "sets": [
-      "isMarriedOrEngaged",
-      "female"
-    ]
-  },
-  {
-    "name": "Melisandre",
-    "episodes": 26,
-    "words": 3329,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Merchant Captain",
-    "episodes": 1,
-    "words": 6,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Mero",
-    "episodes": 1,
-    "words": 269,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Meryn Trant",
-    "episodes": 10,
-    "words": 327,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Mhaegen",
-    "episodes": 2,
-    "words": 99,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Mikken",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Mirelle",
-    "episodes": 1,
-    "words": 17,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Mirri Maz Duur",
-    "episodes": 3,
-    "words": 404,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Missandei",
-    "episodes": 30,
-    "words": 1980,
-    "sets": [
-      "wasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Mord",
-    "episodes": 2,
-    "words": 40,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Mossador",
-    "episodes": 3,
-    "words": 271,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Musician #1",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Musician #2",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Musician #3",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Musician #4",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Musician #5",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Mycah",
-    "episodes": 1,
-    "words": 26,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Myranda",
-    "episodes": 6,
-    "words": 512,
-    "sets": [
-      "wasKilled",
-      "female"
     ]
   },
   {
@@ -1955,10 +462,9 @@
     "episodes": 7,
     "words": 277,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "royal",
+      "was killed",
+      "Baratheon",
       "female"
     ]
   },
@@ -1967,57 +473,8 @@
     "episodes": 2,
     "words": 21,
     "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Night's Watch Deserter",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Night's Watch Messenger",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Night's Watch Officer",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Night's Watchman",
-    "episodes": 1,
-    "words": 12,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Night's Watchman #1",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Night's Watchman #2",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Northman Rioter",
-    "episodes": 1,
-    "words": 5,
-    "sets": [
+      "was killed",
+      "Umber",
       "male"
     ]
   },
@@ -2026,8 +483,9 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "hasSiblings",
-      "female"
+      "Stark",
+      "female",
+      "direwolf"
     ]
   },
   {
@@ -2035,7 +493,8 @@
     "episodes": 7,
     "words": 147,
     "sets": [
-      "wasKilled",
+      "was killed",
+      "Martell",
       "female"
     ]
   },
@@ -2044,8 +503,9 @@
     "episodes": 7,
     "words": 212,
     "sets": [
-      "wasKilled",
-      "hasKilled",
+      "was killed",
+      "has killed",
+      "Martell",
       "female"
     ]
   },
@@ -2054,26 +514,9 @@
     "episodes": 7,
     "words": 1912,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "was killed",
+      "Martell",
       "male"
-    ]
-  },
-  {
-    "name": "Old Nan",
-    "episodes": 2,
-    "words": 204,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Old Woman Prisoner",
-    "episodes": 1,
-    "words": 27,
-    "sets": [
-      "female"
     ]
   },
   {
@@ -2081,190 +524,10 @@
     "episodes": 18,
     "words": 3924,
     "sets": [
-      "wasKilled",
-      "hasKilled",
+      "was killed",
+      "has killed",
+      "Tyrell",
       "female"
-    ]
-  },
-  {
-    "name": "Olly",
-    "episodes": 8,
-    "words": 257,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Olyvar",
-    "episodes": 7,
-    "words": 303,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Orell",
-    "episodes": 6,
-    "words": 355,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Ornela",
-    "episodes": 1,
-    "words": 42,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Osha",
-    "episodes": 15,
-    "words": 1800,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Othell Yarwyck",
-    "episodes": 8,
-    "words": 136,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Othor",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Pentoshi Servant",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Petyr Baelish",
-    "episodes": 39,
-    "words": 8408,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Podrick Payne",
-    "episodes": 25,
-    "words": 1284,
-    "sets": [
-      "parfOfKingsguard",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Polliver",
-    "episodes": 3,
-    "words": 381,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Prendahl na Ghezn",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Pyat Pree",
-    "episodes": 3,
-    "words": 270,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Pypar",
-    "episodes": 10,
-    "words": 449,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Qhono",
-    "episodes": 5,
-    "words": 76,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Qhorin Halfhand",
-    "episodes": 4,
-    "words": 855,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Qotho",
-    "episodes": 3,
-    "words": 111,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Quaithe",
-    "episodes": 2,
-    "words": 133,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Qyburn",
-    "episodes": 19,
-    "words": 1393,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Rakharo",
-    "episodes": 6,
-    "words": 206,
-    "sets": [
-      "wasKilled",
-      "male"
     ]
   },
   {
@@ -2272,65 +535,10 @@
     "episodes": 20,
     "words": 3329,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
+      "was killed",
+      "has killed",
+      "Bolton",
       "male"
-    ]
-  },
-  {
-    "name": "Randyll Tarly",
-    "episodes": 4,
-    "words": 611,
-    "sets": [
-      "wasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Rast",
-    "episodes": 6,
-    "words": 396,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Rattleshirt",
-    "episodes": 4,
-    "words": 173,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Razdal mo Eraz",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Red Keep Stableboy",
-    "episodes": 1,
-    "words": 15,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Red Priestess",
-    "episodes": 2,
-    "words": 78,
-    "sets": [
-      "female"
     ]
   },
   {
@@ -2338,9 +546,8 @@
     "episodes": 8,
     "words": 1400,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "was killed",
+      "Baratheon",
       "male"
     ]
   },
@@ -2349,9 +556,9 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
+      "was killed",
+      "has killed",
+      "Targaryen",
       "male"
     ]
   },
@@ -2360,19 +567,9 @@
     "episodes": 1,
     "words": 23,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Rhaego",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
+      "royal",
+      "was killed",
+      "Targaryen",
       "male"
     ]
   },
@@ -2381,9 +578,8 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "isRoyal",
-      "hasSiblings",
-      "isMarriedOrEngaged"
+      "royal",
+      "Targaryen"
     ]
   },
   {
@@ -2391,19 +587,9 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasSiblings"
-    ]
-  },
-  {
-    "name": "Rickard Karstark",
-    "episodes": 7,
-    "words": 499,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
+      "royal",
+      "was killed",
+      "Targaryen"
     ]
   },
   {
@@ -2411,7 +597,8 @@
     "episodes": 1,
     "words": 27,
     "sets": [
-      "wasKilled",
+      "was killed",
+      "Stark",
       "male"
     ]
   },
@@ -2420,8 +607,8 @@
     "episodes": 7,
     "words": 124,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
+      "was killed",
+      "Stark",
       "male"
     ]
   },
@@ -2430,11 +617,10 @@
     "episodes": 21,
     "words": 3920,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "royal",
+      "was killed",
+      "has killed",
+      "Stark",
       "male"
     ]
   },
@@ -2443,36 +629,10 @@
     "episodes": 7,
     "words": 2608,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Robett Glover",
-    "episodes": 5,
-    "words": 376,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Robin Arryn",
-    "episodes": 8,
-    "words": 342,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Rodrik Cassel",
-    "episodes": 11,
-    "words": 372,
-    "sets": [
-      "wasKilled",
+      "royal",
+      "was killed",
+      "has killed",
+      "Baratheon",
       "male"
     ]
   },
@@ -2481,28 +641,10 @@
     "episodes": 19,
     "words": 2036,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
+      "was killed",
+      "has killed",
+      "Bolton",
       "male"
-    ]
-  },
-  {
-    "name": "Rorge",
-    "episodes": 3,
-    "words": 91,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Ros",
-    "episodes": 13,
-    "words": 804,
-    "sets": [
-      "wasKilled",
-      "female"
     ]
   },
   {
@@ -2510,54 +652,8 @@
     "episodes": 1,
     "words": 33,
     "sets": [
-      "isMarriedOrEngaged",
+      "Frey",
       "female"
-    ]
-  },
-  {
-    "name": "Royal Steward",
-    "episodes": 4,
-    "words": 160,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Ryger Rivers",
-    "episodes": 1,
-    "words": 2,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Salladhor Saan",
-    "episodes": 3,
-    "words": 706,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Samwell Tarly",
-    "episodes": 48,
-    "words": 6727,
-    "sets": [
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Sandor Clegane",
-    "episodes": 35,
-    "words": 3947,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "male"
     ]
   },
   {
@@ -2565,9 +661,8 @@
     "episodes": 59,
     "words": 8937,
     "sets": [
-      "isRoyal",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "royal",
+      "Stark",
       "female"
     ]
   },
@@ -2576,76 +671,10 @@
     "episodes": 7,
     "words": 585,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
+      "was killed",
+      "has killed",
+      "Baratheon",
       "female"
-    ]
-  },
-  {
-    "name": "Septa Moelle",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Septa Mordane",
-    "episodes": 5,
-    "words": 323,
-    "sets": [
-      "wasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Septa Scolera",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Septa Unella",
-    "episodes": 4,
-    "words": 153,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Septon",
-    "episodes": 2,
-    "words": 64,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Ser Endrew Tarth",
-    "episodes": 1,
-    "words": 2,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Shae",
-    "episodes": 20,
-    "words": 1825,
-    "sets": [
-      "wasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Shagga",
-    "episodes": 2,
-    "words": 114,
-    "sets": [
-      "male"
     ]
   },
   {
@@ -2653,9 +682,10 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
+      "was killed",
+      "Stark",
+      "male",
+      "direwolf"
     ]
   },
   {
@@ -2663,36 +693,9 @@
     "episodes": 8,
     "words": 1046,
     "sets": [
-      "wasKilled",
+      "was killed",
+      "Baratheon",
       "female"
-    ]
-  },
-  {
-    "name": "Silk King",
-    "episodes": 1,
-    "words": 11,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Smalljon Umber",
-    "episodes": 2,
-    "words": 225,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Spice King",
-    "episodes": 3,
-    "words": 667,
-    "sets": [
-      "wasKilled",
-      "male"
     ]
   },
   {
@@ -2700,30 +703,9 @@
     "episodes": 24,
     "words": 3607,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Stark Bannerman",
-    "episodes": 2,
-    "words": 9,
-    "sets": []
-  },
-  {
-    "name": "Stark Guard",
-    "episodes": 5,
-    "words": 36,
-    "sets": []
-  },
-  {
-    "name": "Steelshanks Walton",
-    "episodes": 1,
-    "words": 48,
-    "sets": [
+      "was killed",
+      "has killed",
+      "Baratheon",
       "male"
     ]
   },
@@ -2732,25 +714,7 @@
     "episodes": 1,
     "words": 7,
     "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Stiv",
-    "episodes": 1,
-    "words": 39,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Styr",
-    "episodes": 3,
-    "words": 219,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
+      "Frey",
       "male"
     ]
   },
@@ -2759,29 +723,11 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Syrio Forel",
-    "episodes": 3,
-    "words": 489,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Talisa Maegyr",
-    "episodes": 11,
-    "words": 1298,
-    "sets": [
-      "wasKilled",
-      "isMarriedOrEngaged",
-      "female"
+      "was killed",
+      "has killed",
+      "Stark",
+      "male",
+      "direwolf"
     ]
   },
   {
@@ -2789,63 +735,8 @@
     "episodes": 1,
     "words": 79,
     "sets": [
-      "hasSiblings",
+      "Tarly",
       "female"
-    ]
-  },
-  {
-    "name": "Ternesio Terys",
-    "episodes": 2,
-    "words": 113,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "The Bear",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "The Night King",
-    "episodes": 1,
-    "words": 3,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "The Tickler",
-    "episodes": 1,
-    "words": 51,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "The Waif",
-    "episodes": 10,
-    "words": 404,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "female"
-    ]
-  },
-  {
-    "name": "Thenn Warg",
-    "episodes": 1,
-    "words": 2,
-    "sets": [
-      "wasKilled",
-      "male"
     ]
   },
   {
@@ -2853,66 +744,9 @@
     "episodes": 44,
     "words": 5363,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Thin Man",
-    "episodes": 2,
-    "words": 39,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Thoros of Myr",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Three-Eyed Raven",
-    "episodes": 5,
-    "words": 274,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Timett",
-    "episodes": 2,
-    "words": 11,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Tobho Mott",
-    "episodes": 2,
-    "words": 98,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Todder",
-    "episodes": 2,
-    "words": 9,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Tomard",
-    "episodes": 1,
-    "words": 3,
-    "sets": [
+      "was killed",
+      "has killed",
+      "Greyjoy",
       "male"
     ]
   },
@@ -2921,20 +755,10 @@
     "episodes": 14,
     "words": 1400,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Tormund Giantsbane",
-    "episodes": 26,
-    "words": 2294,
-    "sets": [
-      "hasKilled",
+      "royal",
+      "was killed",
+      "has killed",
+      "Baratheon",
       "male"
     ]
   },
@@ -2943,16 +767,8 @@
     "episodes": 4,
     "words": 109,
     "sets": [
-      "wasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Tycho Nestoris",
-    "episodes": 4,
-    "words": 689,
-    "sets": [
+      "was killed",
+      "Martell",
       "male"
     ]
   },
@@ -2961,8 +777,9 @@
     "episodes": 7,
     "words": 201,
     "sets": [
-      "wasKilled",
-      "hasKilled",
+      "was killed",
+      "has killed",
+      "Martell",
       "female"
     ]
   },
@@ -2971,9 +788,8 @@
     "episodes": 66,
     "words": 27655,
     "sets": [
-      "hasKilled",
-      "hasSiblings",
-      "isMarriedOrEngaged",
+      "has killed",
+      "Lannister",
       "male"
     ]
   },
@@ -2982,33 +798,8 @@
     "episodes": 26,
     "words": 5964,
     "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Vala",
-    "episodes": 3,
-    "words": 81,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Vardis Egen",
-    "episodes": 2,
-    "words": 79,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Varly",
-    "episodes": 1,
-    "words": 1,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "Lannister",
       "male"
     ]
   },
@@ -3017,9 +808,9 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "hasKilled",
-      "hasSiblings",
+      "was killed",
+      "has killed",
+      "Targaryen",
       "male"
     ]
   },
@@ -3028,9 +819,9 @@
     "episodes": 5,
     "words": 1177,
     "sets": [
-      "isRoyal",
-      "wasKilled",
-      "hasSiblings",
+      "royal",
+      "was killed",
+      "Targaryen",
       "male"
     ]
   },
@@ -3039,8 +830,9 @@
     "episodes": 0,
     "words": 0,
     "sets": [
-      "wasKilled",
-      "isMarriedOrEngaged",
+      "was killed",
+      "Bolton",
+      "Frey",
       "female"
     ]
   },
@@ -3049,81 +841,8 @@
     "episodes": 6,
     "words": 1648,
     "sets": [
-      "wasKilled",
-      "isMarriedOrEngaged",
-      "male"
-    ]
-  },
-  {
-    "name": "Wallen",
-    "episodes": 1,
-    "words": 11,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Warlock",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Waymar Royce",
-    "episodes": 1,
-    "words": 99,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Wedding Band",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "White Walker",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "White Walker #2",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Wight Wildling Girl",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Wildling Rioter",
-    "episodes": 1,
-    "words": 6,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Will",
-    "episodes": 1,
-    "words": 119,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "Frey",
       "male"
     ]
   },
@@ -3132,59 +851,8 @@
     "episodes": 1,
     "words": 4,
     "sets": [
-      "wasKilled",
-      "hasSiblings",
-      "male"
-    ]
-  },
-  {
-    "name": "Willis Wode",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "wasKilled"
-    ]
-  },
-  {
-    "name": "Wine Merchant",
-    "episodes": 1,
-    "words": 186,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Winterfell Shepherd",
-    "episodes": 2,
-    "words": 108,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Wun Wun",
-    "episodes": 2,
-    "words": 5,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Wyllis",
-    "episodes": 2,
-    "words": 73,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Xaro Xhoan Daxos",
-    "episodes": 5,
-    "words": 828,
-    "sets": [
-      "wasKilled",
+      "was killed",
+      "Lannister",
       "male"
     ]
   },
@@ -3193,106 +861,8 @@
     "episodes": 14,
     "words": 1829,
     "sets": [
-      "hasSiblings",
+      "Greyjoy",
       "female"
-    ]
-  },
-  {
-    "name": "Yezzan zo Qaggaz",
-    "episodes": 0,
-    "words": 0,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Ygritte",
-    "episodes": 14,
-    "words": 2179,
-    "sets": [
-      "wasKilled",
-      "hasKilled",
-      "isMarriedOrEngaged",
-      "female"
-    ]
-  },
-  {
-    "name": "Yohn Royce",
-    "episodes": 12,
-    "words": 538,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Yoren",
-    "episodes": 7,
-    "words": 950,
-    "sets": [
-      "wasKilled",
-      "male"
-    ]
-  },
-  {
-    "name": "Young Benjen Stark",
-    "episodes": 1,
-    "words": 17,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Young Cersei Lannister",
-    "episodes": 1,
-    "words": 103,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Young Lyanna Stark",
-    "episodes": 1,
-    "words": 26,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Young Nan",
-    "episodes": 2,
-    "words": 38,
-    "sets": [
-      "female"
-    ]
-  },
-  {
-    "name": "Young Ned",
-    "episodes": 0,
-    "words": 0,
-    "sets": []
-  },
-  {
-    "name": "Young Ned Stark",
-    "episodes": 4,
-    "words": 81,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Young Rodrik Cassel",
-    "episodes": 1,
-    "words": 5,
-    "sets": [
-      "male"
-    ]
-  },
-  {
-    "name": "Zanrush",
-    "episodes": 2,
-    "words": 72,
-    "sets": [
-      "male"
     ]
   }
 ]

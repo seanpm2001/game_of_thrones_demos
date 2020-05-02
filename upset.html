@@ -43,7 +43,7 @@
 <script>
 async function main() {
     const elems = await fetch('./data.json').then((r) => r.json());
-    const sets = UpSetJS.extractSets(elems).filter((s) => !['hasSiblings', 'parfOfKingsguard'].includes(s.name));
+    const sets = UpSetJS.extractSets(elems);
     sets.sort((a, b) => b.cardinality - a.cardinality);
     const root = document.getElementById('app');
 

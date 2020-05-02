@@ -12,18 +12,21 @@ const data = new Map();
 // const sets = ['isRoyal', 'parfOfKingsguard', 'wasKilled', 'hasKilled', 'hasSiblings', 'male', 'female', 'isMarriedOrEngaged', ...houseNames];
 
 characters.characters.forEach((c) => {
+    if (!c.houseName || c.characterName.startsWith('Young')) {
+        return;
+    }
     data.set(c.characterName, {
         name: c.characterName,
         episodes: 0,
         words: 0,
         sets: [
-            c.royal && 'isRoyal',
-            c.kingsguard && 'parfOfKingsguard',
-            c.killedBy && 'wasKilled',
-            c.killed && 'hasKilled',
-            (c.sibling || c.siblings) && 'hasSiblings',
-            c.marriedEngaged && 'isMarriedOrEngaged',
-            c.housename,
+            c.royal && 'royal',
+            // c.kingsguard && 'kingsguard',
+            c.killedBy && 'was killed',
+            c.killed && 'has killed',
+            // (c.sibling || c.siblings) && 'has siblings',
+            //c.marriedEngaged && 'has partner',
+            c.houseName,
         ].flat().filter(Boolean)
     });
 });
@@ -51,6 +54,13 @@ wordcount.count.forEach((episode) => {
         c.words += value;
     });
 });
+
+// assume characters with no words are direwolf
+data.forEach((v) => {
+    if (v.words === 0 && v.sets.includes('Stark') && !v.name.startsWith('Brandon')) {
+        v.sets.push('direwolf');
+    }
+})
 
 const values = Array.from(data.values()).sort((a, b) => a.name.localeCompare(b.name));
 
