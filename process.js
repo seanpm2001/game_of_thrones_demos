@@ -70,7 +70,8 @@ fs.writeFileSync('./data.json', JSON.stringify(values, null, 2));
 
 // create a small version
 {
-    const subset = values.filter((d) => (d.sets.includes('Lannister') || d.sets.includes('Stark')) && !(d.sets.includes('direwolf'))).map((s) => ({ name: s.name, sets: s.sets }));
+    const subset = values.filter((d) => (d.sets.includes('Lannister') || d.sets.includes('Stark')) && !(d.sets.includes('direwolf')))
+        .map((s) => ({ name: s.name, sets: s.sets.filter((si) => si !== 'Baratheon' && si !== 'Targaryen' && si !== 'Tully' && si !== 'has killed') }));
     fs.writeFileSync('./data.small.json', JSON.stringify(subset, null, 2));
     const sets = Array.from(new Set(subset.map((s) => s.sets).flat())).sort();
     const rows = [
