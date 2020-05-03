@@ -5,7 +5,7 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Game of Thrones Characters</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <script src="https://unpkg.com/@upsetjs/bundle"></script>
+    <script src="https://unpkg.com/@upsetjs/bundle@1"></script>
     <style>
         body {
             margin: 0;
@@ -43,8 +43,7 @@
 <script>
 async function main() {
     const elems = await fetch('./data.json').then((r) => r.json());
-    const sets = UpSetJS.extractSets(elems);
-    sets.sort((a, b) => b.cardinality - a.cardinality);
+    const sets = UpSetJS.extractSets(elems).sort((a, b) => b.cardinality - a.cardinality).slice(0, 6);
     const root = document.getElementById('app');
 
     document.querySelector('h4').textContent = `${elems.length} Game of Thrones Characters`;
@@ -65,7 +64,7 @@ async function main() {
         heightRatios: [0.8, 0.2]
     };
     function render() {
-        UpSetJS.renderUpSet(root, {
+        UpSetJS.render(root, {
             ...props,       
             width: root.getBoundingClientRect().width,
             height: root.getBoundingClientRect().height,
